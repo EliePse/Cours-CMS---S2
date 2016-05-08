@@ -1,0 +1,87 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : Fake Paper.indd
+
+DATE D'ASSEMBLAGE : 09/05/2016 01:38
+Date de création : 09/05/2016
+Date de modification : 09/05/2016
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Sans
+
+POLICES
+5 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices non assemblées
+- Nom : DejaVuSerif; Type : TrueType, Etat : OK
+- Nom : DejaVuSerif-Italic; Type : TrueType, Etat : OK
+- Nom : GillSansStd-BoldCondensed; Type : OpenType Type 1, Etat : OK
+- Nom : GillSansStd-Light; Type : OpenType Type 1, Etat : OK
+- Nom : ITCFranklinGothicStd-Book; Type : OpenType Type 1, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 71,565; Lignes/pouce : 63,245
+- Nom et type : Magenta quadri; Angle : 18,434; Lignes/pouce : 63,245
+- Nom et type : Jaune quadri; Angle : 0,000; Lignes/pouce : 66,666
+- Nom et type : Noir quadri; Angle : 45,000; Lignes/pouce : 70,710
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 1 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible(s)
+Images : 0 Incorporé(e)(s), 1 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : Adobe PDF, (Adobe PDF)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : CMJN composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : A4
+Dimensions du papier : 209,98 mm x 297,039 mm
+Orientation : Portrait
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. Fake Paper.indd; type : Composition Adobe InDesign; taille : 1624K
+2. Fake Paper.idml; type : Document InDesign Markup; taille : 65K
